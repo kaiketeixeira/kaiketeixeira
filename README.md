@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Kaique Teixeira
 
-<!--
-**kaiketeixeira/kaiketeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação.
 
-Here are some ideas to get you started:
+💻 Atualmente estou construindo minha carreira na área de Desenvolvimento de Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor, aprendendo continuamente e desenvolvendo projetos práticos.
+
+## 📚 Atualmente estudando
+
+- Lógica de Programação
+- Git e GitHub
+- Desenvolvimento de Software
+
+## 🎯 Objetivos
+
+- Construir projetos reais
+- Evoluir como desenvolvedor
+- Conquistar minha primeira oportunidade na área de Tecnologia
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/kaike-remolli-40780341b/
