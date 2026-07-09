@@ -23,5 +23,10 @@ Atualmente busco minha primeira oportunidade profissional como desenvolvedor, de
 
 - LinkedIn: https://www.linkedin.com/in/kaike-remolli-40780341b/
 
+## Projetos
+
+### Estoque System
+- Sistema web para gestão de estoque. URL: https://estoque-system-woad.vercel.app
+
 ---
 ⭐ Obrigado por visitar meu perfil!
